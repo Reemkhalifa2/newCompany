@@ -1,0 +1,4 @@
+ECHO is on.
+ dist
+ .env
+ node_modules
